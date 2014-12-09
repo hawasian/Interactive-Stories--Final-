@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:b8d4bef17c63934851518fa6acfe5fb8:4a639184299efe11650545e40be41899:e51e1722bc725609c6124dab81fe1de5$ -->
+<TextureAtlas imagePath="ATbook.png">
+    <SubTexture name="ATBack" x="2" y="2" width="128" height="167"/>
+    <SubTexture name="ATClose" x="132" y="2" width="172" height="92"/>
+    <SubTexture name="ATNext" x="306" y="2" width="128" height="167"/>
+    <SubTexture name="ATP1" x="436" y="2" width="714" height="440"/>
+    <SubTexture name="ATP2" x="2" y="444" width="714" height="440"/>
+    <SubTexture name="ATP3" x="718" y="444" width="714" height="440"/>
+    <SubTexture name="ATP4" x="2" y="886" width="714" height="440"/>
+    <SubTexture name="ATP5" x="718" y="886" width="714" height="440"/>
+</TextureAtlas>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:2a01d663cea87cfe29d2cafcd3cb23c1:dc894341c07408c2831043288ddf946b:58c51c883f17c6d97bdb21a421e95df4$ -->
+<TextureAtlas imagePath="q0.png">
+    <SubTexture name="Q1A1" x="2" y="2" width="339" height="114"/>
+    <SubTexture name="Q1A2" x="343" y="2" width="339" height="114"/>
+    <SubTexture name="Q1A3" x="684" y="2" width="339" height="114"/>
+    <SubTexture name="Q1A4" x="1025" y="2" width="339" height="114"/>
+    <SubTexture name="Q2A1" x="1366" y="2" width="339" height="114"/>
+    <SubTexture name="Q2A2" x="1707" y="2" width="339" height="114"/>
+    <SubTexture name="Q2A3" x="2" y="118" width="339" height="114"/>
+    <SubTexture name="Q2A4" x="343" y="118" width="339" height="114"/>
+    <SubTexture name="Q3A1" x="684" y="118" width="339" height="114"/>
+    <SubTexture name="Q3A2" x="1025" y="118" width="339" height="114"/>
+    <SubTexture name="Q3A3" x="1366" y="118" width="339" height="114"/>
+    <SubTexture name="Q3A4" x="1707" y="118" width="339" height="114"/>
+    <SubTexture name="Q4A1" x="2" y="234" width="339" height="114"/>
+    <SubTexture name="Q4A2" x="343" y="234" width="339" height="114"/>
+    <SubTexture name="Q4A3" x="684" y="234" width="339" height="114"/>
+    <SubTexture name="Q4A4" x="1025" y="234" width="339" height="114"/>
+    <SubTexture name="Q5A1" x="1366" y="234" width="339" height="114"/>
+    <SubTexture name="Q5A2" x="1707" y="234" width="339" height="114"/>
+    <SubTexture name="Q5A3" x="2" y="350" width="339" height="114"/>
+    <SubTexture name="Q5A4" x="343" y="350" width="339" height="114"/>
+    <SubTexture name="Q6A1" x="684" y="350" width="339" height="114"/>
+    <SubTexture name="Q6A2" x="1025" y="350" width="339" height="114"/>
+    <SubTexture name="Q6A3" x="1025" y="350" width="339" height="114"/>
+    <SubTexture name="Q6A4" x="1025" y="350" width="339" height="114"/>
+    <SubTexture name="QP1" x="2" y="466" width="718" height="207"/>
+    <SubTexture name="QP2" x="722" y="466" width="718" height="207"/>
+    <SubTexture name="QP3" x="2" y="675" width="718" height="207"/>
+    <SubTexture name="QP4" x="722" y="675" width="718" height="207"/>
+    <SubTexture name="QP5" x="2" y="884" width="718" height="207"/>
+    <SubTexture name="QP6" x="722" y="884" width="718" height="207"/>
+</TextureAtlas>
